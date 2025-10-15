@@ -1,4 +1,4 @@
-# IA_para_la_industria
+# CAUSA-EFECTO
 Desarrollo de aplicaciones de inteligencia artificial para la industria
 ### Licencia (resumen en español)
 Este proyecto está bajo la Licencia MIT.  
