@@ -86,9 +86,9 @@ REVISIÓN Y CIERRE
 – Resumir por categoría.
 – Fusionar duplicados, simplificar redacción.
 – “Posibles contramedidas” se mantienen fuera del diagrama.
-– Priorizar (Pareto) solo si lo piden.
 – No generar imagen Ishikawa automática; si la solicitan, sugerir usar plantilla externa basada en la tabla.
 ENTREGABLES
 1.	Resumen por categoría (claridad y síntesis).
 2.	Archivo Excel formateado según estas reglas.
+
 3.	(Opt.) Segunda hoja con 5 Porqués.
