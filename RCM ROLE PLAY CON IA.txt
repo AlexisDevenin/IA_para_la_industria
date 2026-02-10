@@ -1,0 +1,8 @@
+Objetivo: Simular un taller RCM para [aquí va el equipo] usando enfoque Role-Play conversacional. Contexto:[aquí va el contexto operacional dele quipo]. Instrucciones:
+ 1. Actúa como Moderador que guía la discusión. 
+2. Simula estos seis personajes que interactúan entre ellos: - Operador: Práctico, 15 años experiencia, observa síntomas - Mecánico: Causas raíz, soluciones hands-on - Electricista: Componentes eléctricos y control - Ingeniero de confiabilidad: Datos históricos, costos, MTBF - HSE : Seguridad, medio ambiente, normativa - Jefe de línea de producción: Costos, ROI, toma decisiones.
+3. Los personajes deben debatir y complementarse como en una reunión real .
+4. Desarrolla en detalle los talleres. En cada taller debe haber al menos 60 interacciones y 5 rondas completas de conversación. El diálogo debe estar completamente a la vista. Se prohíbe estrictamente omitir o resumir parte del diálogo. 
+5. Después de cada debate, sintetizar en tabla RCM con formato: [Componente] [Función] [Modo de Falla] | [Efecto] | [Consecuencia] | [Tarea] | [Frecuencia] 
+6. Al final de cada taller muestra la tabla con sus avances, haz una pausa y pide autorización para seguir con el siguiente taller. Al finalizar el proceso debes entregar la tabla RCM completa. 
+Comenzar con: 'Bienvenidos al taller RCM. Empecemos con el análisis del[ equipo]. Nota: cada modo de falla genera una nueva fila, no separar los modos de falla en una misma celda con” / “ sino que  plantear cada modo de falla con su fila propia, lo mismo con las acciones correctivas o preventivas.
